@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="packageDetail-Servies" />
+        <module name="user-Auth-Servies" />
+        <module name="package-Servies" />
+        <module name="hotel-Servies" />
+        <module name="guide-Servies" />
+        <module name="vehicle-Servies" />
+        <module name="payment-Servies" />
+        <module name="servies-Register" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="guide-Servies" target="11" />
+      <module name="hotel-Servies" target="11" />
+      <module name="package-Servies" target="11" />
+      <module name="packageDetail-Servies" target="11" />
+      <module name="payment-Servies" target="11" />
+      <module name="servies-Register" target="11" />
+      <module name="user-Auth-Servies" target="11" />
+      <module name="vehicle-Servies" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="guide-Servies" options="-parameters" />
+      <module name="hotel-Servies" options="-parameters" />
+      <module name="package-Servies" options="-parameters" />
+      <module name="packageDetail-Servies" options="-parameters" />
+      <module name="payment-Servies" options="-parameters" />
+      <module name="servies-Register" options="-parameters" />
+      <module name="user-Auth-Servies" options="-parameters" />
+      <module name="vehicle-Servies" options="-parameters" />
+    </option>
+  </component>
+</project>

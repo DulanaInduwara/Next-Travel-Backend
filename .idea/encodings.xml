@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/guide-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/packageDetail-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servies-Register/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-Auth-Servies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vehicle-Servies/src/main/java" charset="UTF-8" />
+  </component>
+</project>

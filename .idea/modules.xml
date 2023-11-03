@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Next-Travel-Backend.iml" filepath="$PROJECT_DIR$/Next-Travel-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guide-Servies/guide-Servies.iml" filepath="$PROJECT_DIR$/guide-Servies/guide-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel-Servies/hotel-Servies.iml" filepath="$PROJECT_DIR$/hotel-Servies/hotel-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package-Servies/package-Servies.iml" filepath="$PROJECT_DIR$/package-Servies/package-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packageDetail-Servies/packageDetail-Servies.iml" filepath="$PROJECT_DIR$/packageDetail-Servies/packageDetail-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-Servies/payment-Servies.iml" filepath="$PROJECT_DIR$/payment-Servies/payment-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servies-Register/servies-Register.iml" filepath="$PROJECT_DIR$/servies-Register/servies-Register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-Auth-Servies/user-Auth-Servies.iml" filepath="$PROJECT_DIR$/user-Auth-Servies/user-Auth-Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicle-Servies/vehicle-Servies.iml" filepath="$PROJECT_DIR$/vehicle-Servies/vehicle-Servies.iml" />
+    </modules>
+  </component>
+</project>
